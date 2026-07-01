@@ -3,7 +3,7 @@
 **CSV Data → PostgreSQL → Power BI — A Complete Data Analytics Pipeline**
 
 ![Dashboard Overview](screenshots/dashboard-overview.png)
-
+![Executive Summary](screenshots/executive-summary.png)
 ---
 
 ## 📖 The Story Behind This Project
@@ -210,19 +210,17 @@ Coffee-Shop-Analytics/
 
 ---
 
-👨‍💻 About the Author
+## 👨‍💻 About the Author
 
-Hi, I'm a data analyst passionate about turning messy data into clear, actionable business insights. This project reflects my approach: business‑first, data‑driven, and human‑centered.
+Hi, I'm **Asghar Hussain** – a data analyst passionate about turning complex data into clear, actionable business stories. I built this project to demonstrate my ability to handle the complete analytics lifecycle, from messy raw data to interactive executive dashboards.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/asghar-hussain-dataanalyst) 
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/asghar-dataanalyst)
 
-📊 — *[Download Project Presentation (PDF)](docs/project_presentation.pdf)*
+📊 **[Download Project Presentation (PDF)](docs/project_presentation.pdf)**
 
 
 
-🌟 Call to Action
-
-If you found this project useful or inspiring, please ⭐ star this repository — it helps others discover it and keeps me motivated to build more!
+⭐ If you found this project helpful or interesting, please star the repository!
 
 Built with ☕ and curiosity.
