@@ -208,7 +208,6 @@ Coffee-Shop-Analytics/
    · Change the data source connection to your local PostgreSQL server.
    · Refresh the data and explore the 6-page dashboard.
 
----
 
 ## 👨‍💻 About the Author
 
@@ -219,7 +218,7 @@ Hi, I'm a data analyst passionate about turning messy data into clear, actionabl
 
 📊 — **[Download Project Presentation (PDF)](docs/project-presentation.pdf)**
 
----
+
 
 🌟 Call to Action
 
