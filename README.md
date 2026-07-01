@@ -214,21 +214,21 @@ Coffee-Shop-Analytics/
 
 Hi, I'm a data analyst passionate about turning messy data into clear, actionable business insights. This project reflects my approach: business‑first, data‑driven, and human‑centered.
 
-https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-Profile-black?logo=github
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/asghar-hussain-dataanalyst) 
+[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/asghar-dataanalyst)
 
-📊 — Download Project Presentation (PDF)
+📊 — *[Download Project Presentation (PDF)](docs/project_presentation.pdf)*
 
----
+
 
 🌟 Call to Action
 
 If you found this project useful or inspiring, please ⭐ star this repository — it helps others discover it and keeps me motivated to build more!
 
----
+
 
 Built with ☕ and curiosity.
 
-```
+
 
 ---
