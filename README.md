@@ -4,7 +4,7 @@
 **CSV Data → PostgreSQL → Power BI — A Complete Data Analytics Pipeline**
 
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ---
 
