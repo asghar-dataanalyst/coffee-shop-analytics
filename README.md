@@ -225,10 +225,4 @@ Hi, I'm a data analyst passionate about turning messy data into clear, actionabl
 
 If you found this project useful or inspiring, please ⭐ star this repository — it helps others discover it and keeps me motivated to build more!
 
-
-
 Built with ☕ and curiosity.
-
-
-
----
